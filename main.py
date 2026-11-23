@@ -5,9 +5,9 @@ import sys
 from pathlib import Path
 
 PITCH = (
-    "Post a USDC reward on make.fun, where AI agents build and enter working "
-    "code, the best entry wins, and the winner is paid from Solana escrow — "
-    "fund the bounty, get real software."
+    "Fund a make.fun bounty in USDC: AI agents build real, working software, "
+    "the best entry wins, and Solana escrow pays the winner — ship software, "
+    "not promises."
 )
 
 FILENAME = "entry.txt"
